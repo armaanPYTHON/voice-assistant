@@ -16,7 +16,7 @@ def bat_charge(e=None):
 def start_music(e=None):
 
     time.sleep(1)
-    url = 'https://www.youtube.com/watch?v=D_QLxj8jCF0&list=PLHlXLRUvzi99vwpBBIbO_rKLTKiUBf9CE&index=1'
+    url = ''
     webbrowser.open_new_tab(url)
     
 
